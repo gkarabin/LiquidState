@@ -1,3 +1,7 @@
+#v8.3
+- Refactor project structure to use SDK-style project, removing
+  unecessary dependencies.
+
 #v8.2
 
 - Refactor project structure to move to NETCore: NetStandard 1.0
